@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ionixreactapp-dev-101233-authRole",
+      "UnauthRoleArn": "arn:aws:iam::858236662329:role/amplify-ionixreactapp-dev-101233-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::858236662329:role/amplify-ionixreactapp-dev-101233-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-ionixreactapp-dev-101233-deployment",
+      "UnauthRoleName": "amplify-ionixreactapp-dev-101233-unauthRole",
+      "StackName": "amplify-ionixreactapp-dev-101233",
+      "StackId": "arn:aws:cloudformation:eu-west-2:858236662329:stack/amplify-ionixreactapp-dev-101233/672887b0-9b5c-11ee-803e-0696ca2b871a",
+      "AmplifyAppId": "d3bihwiy7v57i4"
+    },
+    "categories": {
+      "auth": {
+        "ionixreactapp49dd902b": {}
+      }
+    }
+  }
+}
